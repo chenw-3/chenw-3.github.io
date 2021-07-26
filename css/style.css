@@ -470,6 +470,9 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	text-align: left;
 }
 
+.Email {
+    color:black;
+}
 
 .company-social {
 	margin-left: 0;
