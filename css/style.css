@@ -40,7 +40,7 @@ p.lead {
 }
 
 a {
-    color: #28c3ab;
+    color: #67b0d1;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -83,7 +83,7 @@ a:focus {
 }
 
 .nav.navbar-nav {
-    background-color: #28c3ab
+    background-color: #67b0d1
 }
 
 .navbar-custom.top-nav-collapse .nav.navbar-nav {
@@ -304,8 +304,8 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	
 	background: url(../img/milky-way-over-moraine-lake.jpg) no-repeat top center;
+    opacity: 0.9 ;
 }
 
 #intro.intro {
@@ -330,7 +330,7 @@ hr {
 }
 
 .intro .slogan h2 {
-	color: white;
+	color: #67b0d1;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
@@ -345,7 +345,7 @@ hr {
 }
 
 .intro .slogan h4 {
-	color: white;
+	color: #67b0d1;
 	text-shadow: -1px 1px 1px #000;
 }
 
@@ -488,7 +488,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
     height: 40px;
     line-height: 40px;
     text-align: center;
-    background: #3bbec0;
+    background: #67b0d1;
 	color: #fff;
     -webkit-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
@@ -500,9 +500,9 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 .company-social .social-facebook a{background: #3873ae;}
 .company-social .social-twitter a{background: #62c6f8;}
-.company-social .social-dribble a{background: #d74980;}
+.company-social .social-linkedin a{background: #3873ae;}
 .company-social .social-deviantart a{background: #8da356;}
-.company-social .social-google a{background: #000;}
+.company-social .social-github a{background: #000;}
 .company-social .social-vimeo a{background: #51a6d3;}
 .company-social .social-facebook a:hover{background: #4893ce;}
 .company-social .social-twitter a:hover{background: #82e6ff;}
